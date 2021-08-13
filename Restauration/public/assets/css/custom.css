@@ -1,0 +1,11 @@
+@media (min-width: 992px)
+{.col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 100%;
+}
+}
+a {
+ color: white;
+   }
+
